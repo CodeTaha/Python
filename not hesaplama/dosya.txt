@@ -1,0 +1,25 @@
+Recep Taha Konyar,80,65,70
+Ahmet Baran,75,75,75
+Agit Yavuz,65,80,80
+Muhammet İnci,45,65,70
+Murat Yıldız,55,65,75
+Enes Bozdemir,75,65,40
+Emir Taştan,55,75,35
+Yasin Eryılmaz,90,80,70
+Yusuf Koç,75,80,75
+Yasemin,80,75,70
+Nazlıcan,75,80,60
+Deniz,70,40,15
+Zehra,45,65,30
+Rabia,55,75,60
+Seda,90,85,100
+Velat Timur,45,75,80
+Emir Bawer,45,65,85
+Ali Karadağ,75,80,60
+Şervan Tanlı,60,45,75
+Mihraç Dolgun,25,45,70
+Samet Aydemir,15,35,55
+Medet Polat,55,35,70
+Abdullah Köse,35,45,70
+Muhammet Yıldırım,45,55,70
+Fatih Terim,55,80,45
